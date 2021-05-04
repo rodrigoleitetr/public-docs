@@ -1,6 +1,6 @@
 # Objetivos
 
-Ao longo dos últimos meses trbaalhei para ajudar com a nova dash, que estava em processo de análise no momento da minha chegada. Apesar de não ter tanto conhecimento sobre a empresa naquele momento, me dediquei bastante para ajudar a desenhar a arquitetura e validar com os demais times, apoiando principalmente o Henrique que estava neste missão.
+Ao longo dos últimos meses trabalhei para ajudar com a nova dash, que estava em processo de análise no momento da minha chegada. Apesar de não ter tanto conhecimento sobre a empresa naquele momento, me dediquei bastante para ajudar a desenhar a arquitetura e validar com os demais times, apoiando principalmente o Henrique que estava neste missão.
 
 # Projetos
 
