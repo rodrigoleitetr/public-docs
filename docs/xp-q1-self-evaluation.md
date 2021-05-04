@@ -7,6 +7,7 @@ Ao longo dos últimos meses trbaalhei para ajudar com a nova dash, que estava em
 1. Nova dashboard de assessoria
 2. Migração do APIM
 3. Atividades inerentes ao atendimento da LGPD;
+4. Cloud (Azure Functions e Web Apps)
 
 Atuei na parte de arquitetura, desenvolvimento, testes e validações do produto:
 
@@ -15,10 +16,13 @@ Atuei na parte de arquitetura, desenvolvimento, testes e validações do produto
 3. **Testes** - Além dos testes unitários, que já são inerentes do desenvolvimento, atuei no desenvolvimento de testes regressivos e de carga, além de incluir uma modificação que exibe os relatórios de teste de carga direto na pipeline, o que reduz o tempo de análise;
 4. **Validações** - Ao longo do desenvolvimento e planejamento da dashboard, tentei contribuir com questões funcionais, por ex.. filtros que não faziam sentido e melhorias, tentando validar o protótipo que foi criado;
 
+Recentemente começamos a realizar publicações em Microsoft Azure, que é o modelo que pretendemdos seguir daqui pra frente com relação a infra dentro do possível. Como já tenho experiência com Azure por já ter participado de uma migração completa de uma aplicação de grande porte para o Azure, pude contribuir com conhecimentos na implementação e provisionamento de Azure Functions e pretendo continuar apoiando o time com outras necessidades nesse sentido.
+
 # Atuação na equipe
 
 1. Desde o primeiro dia da empresa tenho tentado buscar trabalhar muito em equipe e poder colaborar com meus conhecimentos adquiridos no passado, incluindo tantos anos com desenvolvimento com .NET além de área de arquitetura. 
 2. Durante o desenvolvimento da nova dashboard, tentei ao máximo passar meus conhecimentos com Elastic Search, Apache Kafka e recursos do Azure (Incluindo o APIM) para os demais membros da equipe de forma a dar mais tração para o projeto e também compartilhar conhecimento, o que acaba tornando o trabalho mais prazeroso para todos. 
+3. Compartilhamento de conhecimentos com relação ao Microsoft Azure
 
 # Documentação e comunidade
 
